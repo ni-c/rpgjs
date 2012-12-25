@@ -497,7 +497,7 @@ CODE
         end
         @map = @map.gsub(/,$/, "")
         @prop = @prop.gsub(/,$/, "")
-        @map += "], \"propreties\": " + @prop + "}}"
+        @map += "], \"properties\": " + @prop + "}}"
         
        exportEvent($game_map.map_id)
         
