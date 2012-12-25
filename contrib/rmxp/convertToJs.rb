@@ -22,9 +22,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 =end
 
-PATH_MAPS = "RpgJs/Data/Maps"
-PATH_EVENTS = "RpgJs/Data/Events"
-PATH_DATABASE = "RpgJs/Database"
+PATH_MAPS = "export/data/maps"
+PATH_EVENTS = "export/data/events"
+PATH_DATABASE = "export/database"
 
 module DirJs
   class << self
