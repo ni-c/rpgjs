@@ -1,0 +1,34 @@
+{
+  "name": "rpgjs",
+  "version": "0.0.1",
+  "description": "Framework to create a RPG or MMORPG.",
+  "homepage": "",
+  "keywords": [
+    "rpg",
+    "mmorpg",
+    "rpgjs"
+  ],
+  "author": {
+    "name": "Willi Thiel",
+    "email": "mail@willithiel.de"
+  },
+  "contributors": [
+    {
+      "name": "Samuel Ronce",
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ni-c/rpgjs.git"
+  },
+  "dependencies": {
+    "socket.io-client": "0.9.11"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "readmeFilename": "README.md",
+  "_id": "rpgjs@0.0.1",
+  "_from": "rpgjs"
+}
