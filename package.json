@@ -22,7 +22,7 @@
     "url": "https://github.com/ni-c/rpgjs.git"
   },
   "dependencies": {
-    "socket.io-client": "0.9.11"
+    "socket.io": "0.9.11"
   },
   "main": "index",
   "engines": {
